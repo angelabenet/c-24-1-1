@@ -63,12 +63,7 @@ function keyPressed() {
 }
 
 
-// MOSTRAR AS BALAS DE CANNON 
-function showCannonBalls(b) {
-  if (b) {
-    b.display();
-  } 
-}
+// adicione o code
 
 // estrita
 function keyReleased() {
